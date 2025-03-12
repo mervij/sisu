@@ -1,6 +1,6 @@
 ## Taustaa
 
-Opiskelijaryhmätyönä tehty harjoitustyö, jossa tavoitteena oli toteuttaa yksinkertainen versio monessa suomalaisessa yliopistossa käytössä olevasta opintotietojärjestelmä Sisusta. Järjestelmä hyödynsi oikeaa korkeakoulujen dataa. Harjoitustyö oli osa Ohjelmointi 3 -kurssia keväällä 2022. Omat vastuualueeni:  
+Opiskelijaryhmätyönä tehty harjoitustyö, jossa tavoitteena oli toteuttaa yksinkertainen versio monessa suomalaisessa yliopistossa käytössä olevasta opintotietojärjestelmä Sisusta. Järjestelmä hyödynsi oikeaa korkeakoulujen dataa. Harjoitustyö oli osa "Ohjelmointi 3: Rajapinnat ja tekniikat"  -kurssia keväällä 2022. Omat vastuualueeni:  
 
 * Sisu API
 * Käyttäjän tietojen tallennus JSON:iin
