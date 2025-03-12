@@ -1,0 +1,36 @@
+[
+  {
+    "studentNumber": "",
+    "name": "",
+    "address": "",
+    "email": "",
+    "phonenumber": "",
+    "savedStudyPlans": [],
+    "completedCourses": []
+  },
+  {
+    "studentNumber": "123456",
+    "name": "Teemu Teekkari",
+    "address": "haha yes",
+    "email": "tamppi@tamppi.fi",
+    "phonenumber": "1234567890",
+    "primaryStudyPlan": {
+      "name": "tadaa",
+      "programmeId": "otm-91901c8b-e109-4cf8-b9c7-eaac16417268"
+    },
+    "savedStudyPlans": [
+      {
+        "name": "Yawn",
+        "programmeId": "otm-d729cfc3-97ad-467f-86b7-b6729c496c82"
+      },
+      {
+        "name": "tadaa",
+        "programmeId": "otm-91901c8b-e109-4cf8-b9c7-eaac16417268"
+      }
+    ],
+    "completedCourses": [
+      "otm-9392333f-bff2-4c3d-b1cf-717ce9990253",
+      "tut-cu-g-35907"
+    ]
+  }
+]
